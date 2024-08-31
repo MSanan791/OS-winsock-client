@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Socket_Client", "Socket_Client.vcxproj", "{F5F88B78-E05C-4C14-BFF7-90541D866C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Debug|x64.ActiveCfg = Debug|x64
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Debug|x64.Build.0 = Debug|x64
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Debug|x86.Build.0 = Debug|Win32
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Release|x64.ActiveCfg = Release|x64
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Release|x64.Build.0 = Release|x64
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Release|x86.ActiveCfg = Release|Win32
+		{F5F88B78-E05C-4C14-BFF7-90541D866C81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5C366F-F05F-4B5F-9BD6-6AAC068CA886}
+	EndGlobalSection
+EndGlobal
